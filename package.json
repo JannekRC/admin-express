@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JannekRC/admin-express/issues"
   },
-  "homepage": "https://github.com/JannekRC/admin-express#readme"
+  "homepage": "https://github.com/JannekRC/admin-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
